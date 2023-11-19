@@ -1,6 +1,6 @@
-# FreshWallsClone
+# FreshWallsClone in REACT_NATIVE
 
-### This project targets to Build a clone of Popular Tech youtuber "TECH-BURNER"$$
+### This project targets to Build a clone of Popular Tech youtuber "TECH-BURNER"
 
 ## TO reproduce
   `npm i`
