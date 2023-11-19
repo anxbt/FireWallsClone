@@ -30,8 +30,10 @@
     "extra": {
       "eas": {
         "projectId": "a188ab43-ffdd-458e-a637-b4d835fa2698"
+      },
+      "packagerOpts": {
+        "nonPersistent": true,
       }
     }
   }
 }
-

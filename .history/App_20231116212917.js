@@ -22,30 +22,15 @@
 // });
 
 
-import * as React from 'react';
-import { StyleSheet, Text, View } from 'react-native'
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import HomeScreen from './Components/HomeScreen';
-import Bottom from './Components/Bottom'
-import SettingsScreen from './Components/SettingsScreen';
-import {NavigationContainer} from '@react-navigation/native';
-
 
 const Tab = createBottomTabNavigator();
 
-export default function App() {
+function App() {
   return (
-    <NavigationContainer>
-    <View style={{ flex:1,padding:2}}>
-
-       <Tab.Navigator>
+    <Tab.Navigator>
       <Tab.Screen name="Home" component={HomeScreen} />
       <Tab.Screen name="Settings" component={SettingsScreen} />
     </Tab.Navigator>
-  
-    </View>
-  </NavigationContainer>
-  )
+  );
 }
-
-const styles = StyleSheet.create({})

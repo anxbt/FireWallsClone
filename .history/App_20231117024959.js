@@ -26,7 +26,6 @@ import * as React from 'react';
 import { StyleSheet, Text, View } from 'react-native'
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import HomeScreen from './Components/HomeScreen';
-import Bottom from './Components/Bottom'
 import SettingsScreen from './Components/SettingsScreen';
 import {NavigationContainer} from '@react-navigation/native';
 

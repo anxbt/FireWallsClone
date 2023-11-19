@@ -36,6 +36,7 @@ const Tab = createBottomTabNavigator();
 export default function App() {
   return (
     <NavigationContainer>
+      <Bottom/>
     <View style={{ flex:1,padding:2}}>
 
        <Tab.Navigator>
