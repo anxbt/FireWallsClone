@@ -14,3 +14,11 @@ Original UI
 
 Our UI
 ![Screenshot 2023-11-19 195937](https://github.com/anxbt/FireWallsClone/assets/127748618/ab167b87-3f09-443a-81ca-2f1432b39907)
+
+### This project targets to Build a clone of Popular Tech youtuber "TECH-BURNER"$$
+
+
+
+https://play.google.com/store/apps/details?id=com.techburner.freshwalls&pcampaignid=web_share(Here is
+ the original app we are trying to clone)
+
